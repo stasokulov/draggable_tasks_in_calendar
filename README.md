@@ -4,6 +4,7 @@
 
 —сылка на результат: https://stasokulov.github.io/draggable_tasks_in_calendar/
 
+
 ## Project setup
 ```
 yarn install
