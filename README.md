@@ -1,5 +1,9 @@
 # calendar
 
+Тестовое задание на Vue. Генерация календаря, расстановка задач по календарю из массива. Возможность перетаскивать задачи.
+
+Ссылка на результат: https://stasokulov.github.io/draggable_tasks_in_calendar/
+
 ## Project setup
 ```
 yarn install
